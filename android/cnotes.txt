@@ -3,4 +3,12 @@
 list view tutorial kotlin
 https://www.raywenderlich.com/155-android-listview-tutorial-with-kotlin
 
+use recyclerview instead of list view to enhance performance of the app
+similar to the tableview in ios swift
+https://www.raywenderlich.com/1560485-android-recyclerview-tutorial-with-kotlin
+
+build variants for the purpose of having multiple environments ex. DEV, UAT, PROD
+https://developer.android.com/studio/build/build-variants
+
+
 
