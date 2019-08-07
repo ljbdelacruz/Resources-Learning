@@ -21,3 +21,8 @@ new->Kotlin data class file from JSON
 name of the class 
 paste the json 
 
+kotlin with retrofit 2 implementation 
+https://medium.com/@elye.project/kotlin-and-retrofit-2-tutorial-with-working-codes-333a4422a890
+
+
+
