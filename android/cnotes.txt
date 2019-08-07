@@ -11,4 +11,13 @@ build variants for the purpose of having multiple environments ex. DEV, UAT, PRO
 https://developer.android.com/studio/build/build-variants
 
 
+to avoid creating models manually you can use
+JSON to Kotlin class 
+in mac:
+Android Studio=>Preferences->Plugins->search JSON to Kotlin class
+
+to use the Plugin 
+new->Kotlin data class file from JSON
+name of the class 
+paste the json 
 
